@@ -2,7 +2,7 @@
 size 3 4
 cell 0 3 Rojo 1 
 cell 2 3 Rojo 1 
-cell 0 0 Negro 4 Rojo 1 Verde 3 
+cell 0 0 Rojo 1 Verde 3 Negro 4 
 cell 2 0 Rojo 1 
 head 0 0
  </gs-board>
@@ -10,7 +10,7 @@ head 0 0
 size 3 2
 cell 0 1 Rojo 1 
 cell 2 1 Rojo 1 
-cell 0 0 Negro 2 Rojo 1 Verde 3 
+cell 0 0 Rojo 1 Verde 3 Negro 2 
 cell 2 0 Rojo 1 
 head 0 0
  </gs-board>
