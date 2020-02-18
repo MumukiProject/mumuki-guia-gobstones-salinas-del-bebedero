@@ -1,4 +1,4 @@
-<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-salinas-del-bebedero/master/assets/attires/config_1582048892623.json"></gs-attire>
+<gs-attire attire-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-salinas-del-bebedero/master/assets/attires/config_1582050030856.json"></gs-attire>
 
 <gs-toolbox toolbox-url="https://raw.githubusercontent.com/MumukiProject/mumuki-guia-gobstones-brazos-roboticos/master/assets/toolbox_1581090983723.xml"></gs-toolbox>
 
