@@ -4,4 +4,4 @@
 
 Cuando el piletón está lleno de agua, deberemos esperar a que ésta desaparezca por la evaporación :dash:. Una vez sin agua, tenemos que picar la corteza para formar montículos de sal. :pick:
 
-> Definí e invocá el procedimiento `Picar corteza` para que ponga una bolita azul hasta que no pueda moverse más al Este. Sólo debe hacerlo si `hay un piletón`.
+> Definí e invocá el procedimiento `Picar corteza` para que ponga una bolita azul si `hay un piletón`, hasta que no pueda moverse más al Este. 
