@@ -7,5 +7,5 @@ expectations:
   binding: program
   inspection: Uses:PicarCorteza
 - !ruby/hash:ActiveSupport::HashWithIndifferentAccess
-  binding: program
+  binding: PicarCorteza
   inspection: UsesIf
